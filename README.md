@@ -20,4 +20,6 @@ you can "hit" in order to increase the score.
 - Unzip the zip file, and open the source code from there (which will take you to the Processing 3 software.)
 - Click on the play button to start the game.
 
-_Make sure that you do not remove and run the source code from a different directory than where the images and sounds are in in order for the game to run_
+_Make sure that you do not remove and run the source code from a different directory than where the images and sounds are in in order for the game to run._   
+_The pyde file is just there to provide a view of how the code looks like without having to download the zip file._
+
