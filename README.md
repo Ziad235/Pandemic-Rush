@@ -13,3 +13,9 @@ level 3 will add to level 2 by allowing meteors to be generated from the sides.
 you can "hit" in order to increase the score.  
 - The game ends when you reach 300 points (when you complete all 3 levels).
 - The game will have a “High Score” bar to let you be able to beat a high score.
+
+
+#### How to run the program:
+- Make sure you have Processing 3 installed.
+- Open the source code, which will take you to the Processing 3 software.
+- Click on the play button to start the game.
